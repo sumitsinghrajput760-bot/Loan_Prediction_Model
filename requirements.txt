@@ -1,4 +1,4 @@
 streamlit
 pandas
-sckit-learn
-pyPDF2
+scikit-learn
+pypdf2
